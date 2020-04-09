@@ -1,0 +1,15 @@
+
+        int a;
+        float b;
+        void main(int c, int d){
+            int e;
+            int f;
+            do
+            {
+                int a;
+                float a;
+            }
+            a=1;
+            while(false);
+            return;
+        }

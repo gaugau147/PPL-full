@@ -1,0 +1,13 @@
+ int sum(int a[], int m){
+                    int sum;
+                    sum = 0;
+                    int i;
+                    for (i=0; i<m; i=i+1){
+                        sum = sum + a[i]; 
+                    }
+                    return sum;
+                }
+                int main(){
+                    int a[10];
+                    s = sum(a, 10);
+                }

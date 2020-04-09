@@ -1,0 +1,10 @@
+
+        void main() {
+            int a[5];
+            a[0] = 9;
+            a[1] = a[0];
+            putInt(a[0]);
+            putInt(a[1]);
+
+        }
+        

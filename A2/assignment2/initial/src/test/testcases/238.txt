@@ -1,0 +1,4 @@
+int main() {
+                    do {y = 10;}{}{string x;}
+                    while(true);
+            }

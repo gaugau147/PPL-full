@@ -1,0 +1,1 @@
+intfloat 12int sTring int50 string 1.1float

@@ -1,0 +1,13 @@
+ void main() {
+                        float n1, n2, n3;
+                        n1 = 1.1;
+                        n2 = 10.56;
+                        n3 = 100.01;
+                        if (n1 >= n2 && n1 >= n3)
+                            putString("n1 is largest");
+                        if (n2 >= n1 && n2 >= n3)
+                            putString("n2 is largest");
+                        if (n3 >= n1 && n3 >= n2)
+                            putString("n3 is largest");
+                    }
+                    

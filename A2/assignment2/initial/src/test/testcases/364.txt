@@ -1,0 +1,4 @@
+ string hello(int a, int b){
+                    c = a+b;
+                    putString("Hello World");
+                }

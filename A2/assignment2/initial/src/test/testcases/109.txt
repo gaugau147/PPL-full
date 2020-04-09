@@ -1,0 +1,1 @@
+int Int INT float Float FLOAT string str STRING True true False false

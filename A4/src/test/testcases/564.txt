@@ -1,0 +1,11 @@
+ void main(){
+                        int a;
+                        a = 1;
+                        do 
+                            a = a + 1;
+                            if (a==5)
+                                continue;
+                            putInt(a);
+                        while a<10;
+                    }
+                    

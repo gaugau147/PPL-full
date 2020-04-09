@@ -1,0 +1,8 @@
+
+        void main() {
+            string arrStr[10];
+            int arrA[5], arrB[4];
+            float arrFloat1[1], arrFloat2[2];
+            boolean arrBoo1[2], arrBoo2[3];
+        }
+        

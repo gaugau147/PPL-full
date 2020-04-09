@@ -1,0 +1,8 @@
+ void main() {
+                        if (10 > 2 && true != false && true)
+                            putString("Print this");
+                        if (10 == 11) 
+                            putString("Not this one");
+                        else
+                            putString("Last one");
+                    }

@@ -1,0 +1,8 @@
+ string first, last;
+                    int main(){
+                        first = "Edison";
+                        last = "Thomas";
+                        putString("Full name is: ");
+                        putString(first);
+                        putString(last);
+                    }

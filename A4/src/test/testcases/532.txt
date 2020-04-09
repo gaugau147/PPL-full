@@ -1,0 +1,6 @@
+ void main() {
+                        putIntLn(11 + 22 + 33 / 4);
+                        putFloatLn(1.25 + 3.75);
+                        putStringLn("Print this one");
+                        putBool(false);
+                    }

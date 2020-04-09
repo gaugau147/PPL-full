@@ -1,0 +1,7 @@
+ string foo(string a){
+                        return a;
+                    }
+                    void main(){
+                        putString(foo("baa"));
+                    }
+                    

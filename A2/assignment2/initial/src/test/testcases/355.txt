@@ -1,0 +1,6 @@
+ int a, b[10];
+                    float foo(int b[]){
+                        string c[10];
+                        c = b;
+                        return c[1];
+                    }

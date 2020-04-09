@@ -1,0 +1,21 @@
+
+        string check(int n) {
+            if (n <= 0) {
+                if (n == 0)
+                    return "The number is ZERO";
+                else
+                    return "The number is NEGATIVE";
+            } else
+                return "The number is POSITIVE";
+        }
+
+        void main() {
+            int n1, n2, n3;
+            n1 = -5;
+            n2 = 0;
+            n3 = 14;
+            putStringLn(check(n1));
+            putStringLn(check(n2));
+            putStringLn(check(n3));
+        }
+        

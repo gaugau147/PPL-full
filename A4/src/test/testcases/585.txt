@@ -1,0 +1,12 @@
+ void main() {
+                        int dividend, divisor, quotient, remainder;
+                        dividend = 25;
+                        divisor = 4;
+                        // Computes quotient
+                        quotient = dividend / divisor;
+                        // Computes remainder
+                        remainder = dividend % divisor;
+                        putIntLn(quotient);
+                        putInt(remainder);
+                    }
+                    

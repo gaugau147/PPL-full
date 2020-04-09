@@ -1,0 +1,1 @@
+Program([VarDecl(a,IntType),FuncDecl(Id(foo),[VarDecl(x,IntType)],IntType,Block([Return(Id(x))])),FuncDecl(Id(main),[],IntType,Block([VarDecl(b,IntType),BinaryOp(=,Id(b),CallExpr(Id(foo),[Id(a)])),CallExpr(Id(getInt),[Id(b)]),Dowhile([Block([VarDecl(c,IntType),VarDecl(m,IntType),VarDecl(f,IntType)])],CallExpr(Id(getInt),[Id(b)]))]))])

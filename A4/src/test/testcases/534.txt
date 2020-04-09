@@ -1,0 +1,12 @@
+ void main() {
+                        int a;
+                        float b;
+                        string c;
+                        boolean d;
+                        a = 10;
+                        b = a + 0.25;
+                        c = "a string";
+                        d = a > b;
+                        putBoolLn(d);
+                        putString(c);
+                    }

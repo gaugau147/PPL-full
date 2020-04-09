@@ -1,0 +1,5 @@
+int main(){
+                    s = "this is a string";
+                    f = 1.2;
+                    a = b = d[10] = 100;
+            }

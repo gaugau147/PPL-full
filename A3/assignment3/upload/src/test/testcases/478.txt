@@ -1,0 +1,22 @@
+
+            void main(){f();return;}
+            int f(){
+                int a;
+                a = 1;
+                if (a == 1){
+                    if (a == 2){
+                        return 3;
+                    }
+                    else{
+                        if (a == 4){return 3;}
+                    }
+                    return 3;
+                }
+                else{
+                    for (a; a > 1; a = a + 1){
+                        int b;
+                        return 1;
+                    }
+                }
+            }
+        

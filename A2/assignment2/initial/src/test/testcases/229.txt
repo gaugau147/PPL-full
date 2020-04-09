@@ -1,0 +1,4 @@
+ int foo(int a, int c[]){
+                    void a;
+                    int b;
+                }

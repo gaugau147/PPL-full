@@ -1,0 +1,7 @@
+ int main(){
+                        if (a==b)
+                            if (c==d)
+                                e = f;
+                            else i = 1;
+                        else x = 2;
+                }

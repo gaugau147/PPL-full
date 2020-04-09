@@ -1,0 +1,11 @@
+
+           int a[6];
+           int main(){
+               int m;
+               for(m=1;m<10;m=m+1){
+                   a[1]=m;
+               }
+               g=1;
+               return 1;
+           }
+           

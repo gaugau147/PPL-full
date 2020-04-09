@@ -1,0 +1,5 @@
+ float y;
+                int main(){}
+                void func(){}
+                string z[2];
+            

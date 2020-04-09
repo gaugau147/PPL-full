@@ -1,0 +1,1 @@
+string[]foo(){return c[10];}

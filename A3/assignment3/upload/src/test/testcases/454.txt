@@ -1,0 +1,10 @@
+
+           boolean a;
+           int main(){
+               string m;
+               {
+                   a=true;
+                   return 1.6;
+               }
+           }
+           

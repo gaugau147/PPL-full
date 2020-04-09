@@ -1,0 +1,11 @@
+
+            int main(boolean a){
+                return f();   
+            }
+            int foo(){
+                return 1;
+            }
+            int f(){
+                return f();
+            }
+        

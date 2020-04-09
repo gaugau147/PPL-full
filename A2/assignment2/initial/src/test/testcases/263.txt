@@ -1,0 +1,8 @@
+ int main(){
+                    if (a==b) {
+                        if (c==d){
+                            do {} while true ;
+                        }
+                    }
+                    else c=1;
+            }

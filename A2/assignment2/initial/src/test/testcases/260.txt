@@ -1,0 +1,8 @@
+ int a, b, c[10];
+                int foo(float a, float b){
+                    return a+b;
+                }
+                int main(){
+                    foo(3,5);
+                }
+            

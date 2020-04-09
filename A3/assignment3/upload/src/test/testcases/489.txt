@@ -1,0 +1,13 @@
+
+           int a;
+           int b;
+           int main;
+           int c(){
+               e();
+               return 2;
+           }
+           int e(){
+               c();
+               return 1;
+           }
+           

@@ -1,0 +1,14 @@
+ 
+                    void main () {
+                        int N, factorial;
+                        factorial = 1;
+                        int i;
+
+                        printf ("Please enter N:");
+                        scanf ("%d", N);
+
+                        for (i = 1; i <= N; i=i+1)
+                            factorial = factorial * i;
+
+                        printf ("Giai thua cua %d la: %d", N, factorial);
+                    }

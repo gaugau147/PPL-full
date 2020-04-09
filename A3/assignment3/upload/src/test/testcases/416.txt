@@ -1,0 +1,10 @@
+void main(int a, int b){
+            int c;
+            float d;
+            {
+                int f;
+                string e[8];
+            }
+            float c;
+            return;
+        }

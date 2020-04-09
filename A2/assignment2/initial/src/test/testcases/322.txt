@@ -1,0 +1,8 @@
+int main(){
+                    if (true) {
+                        a = 10;
+                        b = 10;
+                    }
+                    else
+                        a = a + 1;
+            }

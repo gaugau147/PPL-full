@@ -1,0 +1,13 @@
+ void main (){
+                        int a,b,r;
+                        scanf ("%d", a);
+                        scanf ("%d", b);
+
+                        r = a % b;
+                        do 
+                            a = b;
+                            b = r;
+                        while (r>0) ;
+                        printf ("UCLN cua a va b la %d",b);
+                        getch();
+                    }

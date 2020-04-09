@@ -1,0 +1,14 @@
+
+           int b;
+           boolean c[6];
+           boolean[] a(){
+               return c;
+           }
+           int[] main1(){
+               return a();
+           }
+           void main(){
+               main1();
+               return;
+           }
+           

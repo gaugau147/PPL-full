@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],IntType,Block([If(BinaryOp(<,Id(a),IntLiteral(10)),CallExpr(Id(print),[StringLiteral(This is a test case)]))]))])

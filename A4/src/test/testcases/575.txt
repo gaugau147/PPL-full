@@ -1,0 +1,18 @@
+ void main()    
+                    {    
+                        int n,r,sum,temp;  
+                        sum = 0;  
+                        n = 153;  
+                        temp=n;    
+                        do
+                        {    
+                            r=n%10;    
+                            sum=sum+(r*r*r);    
+                            n=n/10;    
+                        } while(n>0) ; 
+                        if(temp==sum)    
+                            putString("armstrong number");    
+                        else    
+                            putString("not armstrong number");    
+                    }   
+                    

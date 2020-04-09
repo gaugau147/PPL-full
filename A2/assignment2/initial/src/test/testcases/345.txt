@@ -1,0 +1,3 @@
+int main(){
+                    foo(a+1>b+c*3/2/3/d[c+d]);
+            }

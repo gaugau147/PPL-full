@@ -1,0 +1,4 @@
+int main(){
+                    if(foo(3)>foo(2)+10){}
+                    else {foo(3)[a+b[foo(c)]];}
+            }

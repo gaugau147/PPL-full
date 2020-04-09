@@ -1,0 +1,5 @@
+int main(){
+                    if (foo(3) == foo (4) && foo(5) != foo(6)){
+                        print("it's true");
+                    }
+            }

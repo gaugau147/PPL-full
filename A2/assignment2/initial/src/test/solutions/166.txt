@@ -1,0 +1,1 @@
+def,f,(,k,),{,if,len,(,k,),==,1,return,1,/,n,;,},<EOF>

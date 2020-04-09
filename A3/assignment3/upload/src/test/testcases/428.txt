@@ -1,0 +1,11 @@
+
+                   int foo1;
+                   void main(){
+                   }
+                   int foo(){
+                   return 1;
+                   }
+                   int foo1(){
+                   return 1;
+                   }
+              

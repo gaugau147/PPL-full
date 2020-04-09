@@ -1,0 +1,7 @@
+
+                   void main(){
+                   }
+                   int foo(string a, string a){
+                        return 1;
+                   }
+              

@@ -1,0 +1,2 @@
+abc/*This is a block comment with several symbols 
+ 	 break;*/

@@ -1,0 +1,10 @@
+
+           int a[6];
+           int main(){
+               string m;
+               do a[1]=a[0]+1;
+               m="7";
+               while(x==6);
+               return 1;
+           }
+           

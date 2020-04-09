@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(foo),[],ArrayTypePointer(StringType),Block([Return(ArrayCell(Id(c),IntLiteral(10)))]))])

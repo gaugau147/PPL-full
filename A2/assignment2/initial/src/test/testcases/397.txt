@@ -1,0 +1,18 @@
+ 
+                    void main () {
+                        float dntt, price, price_tax;
+
+                        printf("Vui long nhap so dien nang tieu thu: ");
+                        scanf("%d", dntt);
+
+                        if (dntt>=0) {
+                            if (dntt<=50)       price = b1*dntt;
+                            else if (dntt<=100) price = b1*50+b2*(dntt-50);
+                            else if (dntt<=200) price = b1*50+b2*50+b3*(dntt-100);
+                            else                price = b1*50+b2*50+b3*100+b4*100+b5*100+b6*(dntt-400);
+                        price_tax = price*1.1;
+                        printf("Tong tien dien la %.0f \n", price_tax);
+                        }
+                        else    printf("Loi: dien nang tieu thu la mot so khong am\n");
+                    }
+                    

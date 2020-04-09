@@ -1,0 +1,13 @@
+ int a;
+                int foo(int x){return x;}
+                int main(){
+                    int b;
+                    b = foo(a);
+                    getInt(b);
+                    do {
+                        int c;
+                        int m;
+                        int f;
+                    }
+                    while getInt(b);
+                }

@@ -1,0 +1,28 @@
+ int a, b[10];
+                    string c[2], d;
+                    int foo1(int a, int b[]){
+                        int d;
+                        do 
+                            a = d;
+                            {
+                                int e;
+                                d = d + 1;
+                                if (d == e) {break;}
+                            }
+                            { }
+                        while true;
+                        return a == b <= c;
+                    }
+                    float[] foo2(string c){
+                        a = c;
+                        if (a == c >= d) continue;
+                        else {break;}
+                        return;
+                    }
+                    int main(){
+                        boolean a;
+                        a = foo(3)[10] = c[foo1(foo(d[30]))] = 100;
+                        (a > b) + c * d - e || a && (foo(2) >= (foo1(2)[3] < 3)) <= 4 + (a != c[10]) + !a + -a % 100;
+                        for (i=foo(foo1(c[3])); i<foo(a); i = i*2)
+                            print("This is the value", i);
+                    }

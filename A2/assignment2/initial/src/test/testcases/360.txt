@@ -1,0 +1,6 @@
+ void foo1(){
+                        if (a==b)
+                            b = c;
+                        if (e!=f)
+                            foo(a,b);
+                    }

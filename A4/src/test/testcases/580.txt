@@ -1,0 +1,16 @@
+ void main() {
+                        int year;
+                        year = 2019;
+                        if (year % 4 == 0) {
+                            if (year % 100 == 0) {
+                                // the year is a leap year if it is divisible by 400.
+                                if (year % 400 == 0)
+                                    putString("leap year");
+                                else
+                                    putString("not a leap year");
+                            } else
+                                putString("leap year");
+                        } else
+                            putString("not a leap year");
+                    }
+                    

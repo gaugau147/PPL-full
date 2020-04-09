@@ -1,0 +1,7 @@
+ void foo(float a){
+                        putFloat(a);
+                    }
+                    void main(){
+                        foo(1);
+                    }
+                    

@@ -1,0 +1,1 @@
+Program([VarDecl(first,StringType),VarDecl(last,StringType),FuncDecl(Id(main),[],IntType,Block([BinaryOp(=,Id(first),StringLiteral(Edison)),BinaryOp(=,Id(last),StringLiteral(Thomas)),CallExpr(Id(putString),[StringLiteral(Full name is: )]),CallExpr(Id(putString),[Id(first)]),CallExpr(Id(putString),[Id(last)])]))])

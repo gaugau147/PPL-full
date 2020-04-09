@@ -1,0 +1,11 @@
+
+           int a;
+           void main(){
+               int m;
+               m=9;
+               {
+                   a=b+m;
+               }
+               return;
+           }
+           

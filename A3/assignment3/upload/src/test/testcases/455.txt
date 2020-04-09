@@ -1,0 +1,15 @@
+
+           boolean a;
+           int b;
+           int main(){
+               string m;
+               {
+                   a=true;
+                   for(b=0;b<1;b=b+1){
+                       if(b>0) return 3;
+                   }
+                   do return "a";
+                   while(true);
+               }
+           }
+           

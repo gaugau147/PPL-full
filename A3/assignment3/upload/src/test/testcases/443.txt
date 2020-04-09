@@ -1,0 +1,10 @@
+
+           int a[6];
+           void main(){
+               int m;
+               for(m=1;m<10;m=m+t){
+                   a[1]=m;
+               }
+               return;
+           }
+           

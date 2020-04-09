@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(foo),[VarDecl(a,FloatType)],IntType,Block([If(BinaryOp(==,Id(a),IntLiteral(1)),If(BinaryOp(>,Id(b),IntLiteral(3)),BinaryOp(=,Id(c),IntLiteral(5)),BinaryOp(=,Id(d),IntLiteral(1)))),If(BinaryOp(<,Id(e),IntLiteral(4)),CallExpr(Id(good),[]),If(BinaryOp(>,Id(h),IntLiteral(5)),CallExpr(Id(notgood),[]),CallExpr(Id(good),[])))]))])

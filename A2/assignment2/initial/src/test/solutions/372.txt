@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],IntType,Block([VarDecl(a,ArrayType(IntType,10)),VarDecl(sum,IntType),VarDecl(i,IntType),BinaryOp(=,Id(sum),IntLiteral(0)),For(BinaryOp(=,Id(i),IntLiteral(0));BinaryOp(<,Id(i),IntLiteral(10));BinaryOp(=,Id(i),BinaryOp(+,Id(i),IntLiteral(1)));BinaryOp(=,Id(sum),BinaryOp(+,Id(sum),ArrayCell(Id(a),Id(i))))),Return(Id(sum))]))])

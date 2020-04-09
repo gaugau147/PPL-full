@@ -1,0 +1,3 @@
+ void main() {
+                        putFloat(3.0/3);
+                    }

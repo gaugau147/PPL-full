@@ -1,0 +1,9 @@
+
+        void main() {
+            int arr[5];
+            arr[0] = arr[1] = arr[2] = 9;
+            putInt(arr[0]);
+            putInt(arr[1]);
+            putInt(arr[2]);
+        }
+        

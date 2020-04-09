@@ -1,0 +1,20 @@
+ void main() {
+                        int low, high, i, flag;
+                        flag = 0;
+                        low = 20;
+                        high = 50;
+                        do {
+                            flag = 0;
+                            for (i = 2; i <= low / 2; i = i+1) {
+                                if (low % i == 0) {
+                                    flag = 1;
+                                    break;
+                                }
+                            }
+                            if (flag == 0){
+                                putInt(low);
+                            }
+                            low = low+1;
+                        } while(low<high);
+                    }
+                    

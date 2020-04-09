@@ -1,0 +1,3 @@
+ void main() {
+                        putBool(3.0001 < 3);
+                    }

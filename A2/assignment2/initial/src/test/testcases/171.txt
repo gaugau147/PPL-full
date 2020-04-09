@@ -1,0 +1,2 @@
+random //comment ne
+ het_comment/*comment nua ne*/

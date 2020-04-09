@@ -1,0 +1,7 @@
+ void foo(){
+                        putInt(1);
+                    }
+                    void main(){
+                        foo();
+                    }
+                    

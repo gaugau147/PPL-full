@@ -1,0 +1,8 @@
+
+               int main(boolean a){
+                   int b, c,d;
+                   b = 1;c = 1;d=1;
+                   b + c = c + d;
+                   return 1;
+               }
+           

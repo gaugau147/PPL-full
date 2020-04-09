@@ -1,0 +1,17 @@
+ 
+                    void main () {
+                        int max_len;
+                        max_len = 50;
+                        string str[50], ch;
+                        int i;
+                        i = 0;
+                        printf("Enter a string, %d chars max: ", max_len);
+                        do 
+                            ch = getchar();
+                            str[i] = ch;
+                            i = i + 1;
+                        while(ch!="\n"); 
+                        str[i] = "NULL";
+                        printf("Line: %s", str);
+                    }
+                    

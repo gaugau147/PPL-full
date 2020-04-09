@@ -1,0 +1,4 @@
+int main(){
+                    a = func(b,c);
+                    b = func(a)[100];
+            }

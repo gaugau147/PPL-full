@@ -1,0 +1,15 @@
+
+                void getch() {
+                    return;
+                }
+                int main()
+                {
+                    int i, j, k;
+                    for (i = 0; i <= 200; i = i + 1)
+                       {
+                            printf(i);
+                       }
+                    getch();
+                    return 0;
+                }
+                

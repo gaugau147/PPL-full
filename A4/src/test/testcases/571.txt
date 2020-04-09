@@ -1,0 +1,17 @@
+ void main()    
+                    {    
+                        int n1,n2,n3,i,number;    
+                        n1 = 0;
+                        n2 = 1;
+                        number = 10;   
+                        putInt(n1);
+                        putInt(n2);    
+                        for(i=3;i<number;i = i+1)    
+                        {    
+                            n3=n1+n2;    
+                            putIntLn(n3);    
+                            n1=n2;    
+                            n2=n3;    
+                        }  
+                    }
+                    

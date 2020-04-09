@@ -1,0 +1,8 @@
+ void main() {
+                        if (true) 
+                            putInt(100);
+                        else if (true)
+                            putInt(101);
+                        else
+                            putInt(102);
+                    }

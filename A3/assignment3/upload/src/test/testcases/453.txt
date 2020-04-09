@@ -1,0 +1,10 @@
+
+           boolean a;
+           int main(){
+               string m;
+               if(a){
+                   a=false;
+               }
+               return true;
+           }
+           

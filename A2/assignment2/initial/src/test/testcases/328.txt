@@ -1,0 +1,4 @@
+int main(){
+                    if (a<10)
+                        print("This is a test case");
+                }

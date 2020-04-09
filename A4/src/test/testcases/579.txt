@@ -1,0 +1,9 @@
+ void main() {
+                        int num;
+                        num = 101;
+                        if(num % 2 == 0)
+                            putString("even");
+                        else
+                            putString("odd");
+                    }
+                    

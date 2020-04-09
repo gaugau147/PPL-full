@@ -1,0 +1,3 @@
+The number is NEGATIVE
+The number is ZERO
+The number is POSITIVE

@@ -1,0 +1,13 @@
+
+        int a;
+        float b;
+        void main(int c, int d){
+            int e;
+            int f;
+            if (a>0){
+                int e;
+                string c;
+                float e;
+            }
+            return;
+        }

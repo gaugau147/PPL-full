@@ -1,0 +1,3 @@
+ void main() {
+                        putString("Print this 123456");
+                    }

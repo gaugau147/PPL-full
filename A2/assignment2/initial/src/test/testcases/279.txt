@@ -1,0 +1,11 @@
+boolean foo(int i){
+                    int k;
+                    boolean flag;
+                    flag = true;
+                    for (k=2; k<i/2; k=k+1){
+                        if (foo2(k, i-2*k+1,k) == foo2(k,i-2/k+1,k))
+                            flag = false;
+                        return flag;
+                    }
+                    return flag;
+            }

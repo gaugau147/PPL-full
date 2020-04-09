@@ -1,0 +1,4 @@
+string[] foo(){
+                    int c[3];
+                    return c;
+            }

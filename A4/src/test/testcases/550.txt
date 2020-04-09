@@ -1,0 +1,9 @@
+ void foo(){
+                        putString("haha");
+                        return;
+                    }
+                    void main(){
+                        foo();
+                        foo();
+                    }
+                    

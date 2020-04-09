@@ -1,0 +1,1 @@
+!true && false || a == a; a!=b;a<>b;a<=b;a>=b;a=4ed

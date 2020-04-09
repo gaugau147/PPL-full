@@ -1,0 +1,4 @@
+int main(){
+                    do y = 10;
+                    while (a=10);
+            }

@@ -1,0 +1,11 @@
+ boolean foo(int a[], int n, int k){
+                        boolean flag;
+                        int i;
+                        for (i=1; i<n; i=i+1){
+                            if (a[i] != a[i-1]+k){
+                                flag = false;
+                                return flag;
+                            }
+                        }
+                        return flag;
+                }

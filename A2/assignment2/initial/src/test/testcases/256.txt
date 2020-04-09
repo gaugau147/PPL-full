@@ -1,0 +1,4 @@
+int main(){
+                    foo(3, foo(4, foo(5, foo(6, foo1(7)))));
+                    return 3;
+            }

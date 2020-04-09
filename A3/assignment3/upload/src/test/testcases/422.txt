@@ -1,0 +1,13 @@
+
+        int a;
+        float b;
+        void main(int c, int d){
+            int e;
+            int f;
+            for(f=0;f<5;f=f+1){
+                int f;
+                float x;
+                string x;
+            }
+            return;
+        }

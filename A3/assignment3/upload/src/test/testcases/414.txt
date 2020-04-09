@@ -1,0 +1,11 @@
+
+            int a;
+            float b;
+            void main(){
+                return;
+            }
+            string c[6];
+            float main(int a, int b){
+                int c;
+                return 1.6;
+            }

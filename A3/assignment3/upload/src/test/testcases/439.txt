@@ -1,0 +1,11 @@
+
+           int a[6];
+           void main(){
+               int m;
+               m=-1;
+               if(k<m){
+                   m=6;
+               }
+               return;
+           }
+           

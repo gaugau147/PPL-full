@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],IntType,Block([If(BinaryOp(&&,BinaryOp(==,CallExpr(Id(foo),[IntLiteral(3)]),CallExpr(Id(foo),[IntLiteral(4)])),BinaryOp(!=,CallExpr(Id(foo),[IntLiteral(5)]),CallExpr(Id(foo),[IntLiteral(6)]))),Block([CallExpr(Id(print),[StringLiteral(it's true)])]))]))])

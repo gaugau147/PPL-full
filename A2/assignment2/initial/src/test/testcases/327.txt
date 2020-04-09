@@ -1,0 +1,8 @@
+int main(){
+                    if (a == 10)
+                        a = false;
+                    else if (a == 11)
+                        a = 10;
+                    else
+                        b = 100;
+                }

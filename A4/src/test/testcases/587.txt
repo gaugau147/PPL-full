@@ -1,0 +1,10 @@
+ void main() {
+                        int n, i, sum;
+                        sum = 0;
+                        n = 10;
+                        for (i = 1; i <= n; i=i+1) {
+                            sum = sum + i;
+                        }
+                        putInt(sum);
+                    }
+                    

@@ -1,0 +1,10 @@
+ void main() {
+                        int a;
+                        a = 1;
+                        do{
+                          //  putInt(1);
+                            a = a+1;
+                            return;
+                        } while a != 3;
+                        putInt(a);
+                    }

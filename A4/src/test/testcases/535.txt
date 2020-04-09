@@ -1,0 +1,6 @@
+ void main() {
+                        if (true)
+                            putString("In cai nay");
+                        else
+                            putString("Dung in cai nay nha");
+                    }

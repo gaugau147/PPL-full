@@ -1,0 +1,15 @@
+string foo(){
+                    float a, b, c;
+                    do
+                        print("enter a, b, c: ");
+                    while 1;
+                    d = sqrt(b)-4*a*c;
+                    if (d<0) 
+                        return "vo nghiem";
+                    else if (d==0)
+                        return "co mot nghiem";
+                    else if (d>0)
+                        return "co hai nghiem";
+                    else
+                        return "just testing";
+            }

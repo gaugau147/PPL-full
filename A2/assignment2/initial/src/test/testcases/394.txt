@@ -1,0 +1,13 @@
+ float foo(){
+                        int a[3];
+                        string b;
+                        float e;
+                        boolean f;
+                        do 
+                            for (i=4; i<9+9; i=i+1)
+                                if (a==3 && b==true)
+                                    e = e + 5;
+                                else continue;
+                        while a==4 && c ==4 ;
+
+                }

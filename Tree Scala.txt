@@ -1,0 +1,15 @@
+object Test {
+  trait Tree
+  case class Branch(left: Tree, right: Tree) extends Tree
+  case class Leaf(x:Int) extends Tree
+  
+  def sum(t:Tree): Int = t match{
+    case Branch(left, right) => sum(left) + sum(right)
+    case Leaf(value) => value
+    
+  }
+  def main(args: Array[String]):Unit = {
+    val tree1 = Branch(Branch(Leaf(1), Leaf(2)), Branch(Leaf(3), Leaf(4)))
+    println(sum(tree1))
+  }
+}

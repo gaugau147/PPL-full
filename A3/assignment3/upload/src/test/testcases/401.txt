@@ -1,0 +1,7 @@
+
+                   int a;
+                   void main(){
+                        float b;
+                        string b;
+                   }
+              

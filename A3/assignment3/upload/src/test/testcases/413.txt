@@ -1,0 +1,15 @@
+
+            int main1;
+            void main1(int a, int b){
+                int c;
+                float d;
+                {
+                    int e;
+                    string f[8];
+                }
+                return;
+            }
+            int main(){
+                main1(1,2);
+            return 1;
+        }   

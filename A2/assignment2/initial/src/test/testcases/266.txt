@@ -1,0 +1,10 @@
+ int a, b;
+                int sum(int a, int b) {return a+b;}
+                int main(){
+                    putString("Enter a num: ");
+                    getInt(a);
+                    putString("Enter a num: ");
+                    getInt(b);
+                    putString("The sum of them is: ");
+                    putInt(sum(a, b));
+                }

@@ -1,0 +1,9 @@
+ int foo(float a){
+                        if (a==1)
+                            if (b>3) c=5;
+                            else d=1;
+                        if (e<4) good();
+                        else
+                            if (h>5) notgood();
+                            else good();
+                }

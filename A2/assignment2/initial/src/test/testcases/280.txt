@@ -1,0 +1,11 @@
+float foo(float a, float b, float c){
+                    if ((a+b)>c && (b+c)>a && (a+c)>b){
+                        p = (a+b+c)/2;
+                        s = sqrt(p*(p-a)*(p-b)*(p-c));
+                        /*
+                        abc la 3 canh cua tam giac
+                        */
+                        return p;
+                    } 
+                    else return 0; //abc thang hang
+            }

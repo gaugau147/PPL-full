@@ -1,0 +1,10 @@
+
+                   string str;
+                   int main(){
+                        return 0;
+                   }
+                   string str(){
+                        return "";
+                   }
+
+              

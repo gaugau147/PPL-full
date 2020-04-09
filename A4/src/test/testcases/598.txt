@@ -1,0 +1,11 @@
+
+        void main() {
+            boolean flag;
+            boolean arr[5];
+            arr[0] = arr[1] = arr[2] = flag =  3 > 2;
+            putBool(arr[0]);
+            putBool(arr[1]);
+            putBool(arr[2]);
+            putBool(flag);
+        }
+        

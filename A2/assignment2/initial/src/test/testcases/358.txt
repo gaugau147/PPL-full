@@ -1,0 +1,4 @@
+ int main() {
+                        int a, b[10];
+                        a = b || c && d || a > b || c<=d && a != e || g >= h && a > c && a - -a + (a||b) && a - !a && true || false;
+                    }

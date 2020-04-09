@@ -1,0 +1,19 @@
+
+        int a;
+        float b;
+        void main(int c, int d){
+            int e;
+            int f;
+            do
+            {
+                int e;
+                float f;
+            }
+            {
+                string c;
+                boolean c;
+            }
+            a=9;
+            while(true);
+            return;
+        }

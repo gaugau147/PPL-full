@@ -1,0 +1,7 @@
+ int foo(){return 1;}
+                    void main(){
+                        int a[10];
+                        a[0] = a[1] = 1;
+                        putInt(a[0] + a[1] + a[foo()]);
+                    }
+                    

@@ -1,0 +1,3 @@
+ void main() {
+                        putInt(5%2);
+                    }

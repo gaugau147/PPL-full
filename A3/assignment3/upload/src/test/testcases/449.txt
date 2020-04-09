@@ -1,0 +1,12 @@
+
+           int main(){
+               int a;
+               int b;
+               a = sum(a, b);
+               a = sub(a, b);
+               return a;
+           }
+           int sum(int a, int b){
+               return a + b;
+           }
+           
